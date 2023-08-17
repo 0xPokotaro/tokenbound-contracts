@@ -16,6 +16,7 @@ docs/
 # foundry
 out/
 cache/
+lib/
 
 # Node.js
 node_modules/
